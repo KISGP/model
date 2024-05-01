@@ -1,0 +1,1851 @@
+{
+    "Azur": [
+        {
+            "title": "阿贝克隆比",
+            "description": "无背景",
+            "name": "abeikelongbi_3",
+            "position": [
+                0,
+                50
+            ],
+            "scale": 0.05,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230926.png"
+        },
+        {
+            "title": "爱宕",
+            "description": "无背景",
+            "name": "aidang_2",
+            "position": [
+                0,
+                35
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230952.png"
+        },
+        {
+            "title": "埃吉尔",
+            "description": "有背景",
+            "name": "aijier_2",
+            "position": [
+                -50,
+                35
+            ],
+            "scale": 0.05,
+            "stageStyle": {
+                "height": 300,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428231033.png"
+        },
+        {
+            "title": "埃吉尔",
+            "description": "有背景",
+            "name": "aijier_3",
+            "position": [
+                -70,
+                35
+            ],
+            "scale": 0.05,
+            "stageStyle": {
+                "height": 470,
+                "width": 280
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428224924.png"
+        },
+        {
+            "title": "埃米尔·贝尔汀",
+            "description": "有背景",
+            "name": "aimierbeierding_3",
+            "position": [
+                -180,
+                35
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 250
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428224944.png"
+        },
+        {
+            "title": "安克雷奇",
+            "description": "有背景",
+            "name": "ankeleiqi_2",
+            "position": [
+                -200,
+                -50
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 300,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225211.png"
+        },
+        {
+            "title": "巴尔的摩",
+            "description": "有背景",
+            "name": "baerdimo_6",
+            "position": [
+                -250,
+                -140
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225242.png"
+        },
+        {
+            "title": "贝尔法斯特",
+            "description": "无背景",
+            "name": "beierfasite_2",
+            "position": [
+                -120,
+                -70
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 450,
+                "width": 250
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225324.png"
+        },
+        {
+            "title": "北卡罗来纳",
+            "description": "有背景",
+            "name": "beikaluolaina_2",
+            "position": [
+                -190,
+                -180
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 350,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225347.png"
+        },
+        {
+            "title": "俾斯麦",
+            "description": "有背景",
+            "name": "bisimai_2",
+            "position": [
+                -200,
+                -180
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 350,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225417.png"
+        },
+        {
+            "title": "博伊西",
+            "description": "有背景",
+            "name": "boyixi_2",
+            "position": [
+                -200,
+                -180
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225438.png"
+        },
+        {
+            "title": "柴郡",
+            "description": "有背景",
+            "name": "chaijun_3",
+            "position": [
+                -200,
+                -80
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225513.png"
+        },
+        {
+            "title": "大凤",
+            "description": "无背景",
+            "name": "dafeng_2",
+            "position": [
+                -150,
+                -60
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 450,
+                "width": 330
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225544.png"
+        },
+        {
+            "title": "大凤",
+            "description": "有背景",
+            "name": "dafeng_3",
+            "position": [
+                -35,
+                -80
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 300,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225633.png"
+        },
+        {
+            "title": "大凤",
+            "description": "有背景",
+            "name": "dafeng_4",
+            "position": [
+                -160,
+                -30
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225702.png"
+        },
+        {
+            "title": "大凤",
+            "description": "有背景",
+            "name": "dafeng_6",
+            "position": [
+                -80,
+                -80
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 300,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225732.png"
+        },
+        {
+            "title": "敦刻尔克",
+            "description": "有背景",
+            "name": "dunkeerke_2",
+            "position": [
+                -130,
+                -70
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225750.png"
+        },
+        {
+            "title": "恶毒",
+            "description": "有背景",
+            "name": "edu_4",
+            "position": [
+                -340,
+                -120
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225805.png"
+        },
+        {
+            "title": "戈里齐亚",
+            "description": "有背景",
+            "name": "geliqiya_2",
+            "position": [
+                -170,
+                -130
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225828.png"
+        },
+        {
+            "title": "光荣",
+            "description": "有背景",
+            "name": "guangrong_3",
+            "position": [
+                -80,
+                -60
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225840.png"
+        },
+        {
+            "title": " 海伦娜",
+            "description": "有背景",
+            "name": "hailunna_4",
+            "position": [
+                -100,
+                -120
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225853.png"
+        },
+        {
+            "title": "赫敏",
+            "description": "有背景",
+            "name": "hemin_2",
+            "position": [
+                -100,
+                -120
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225909.png"
+        },
+        {
+            "title": "赫敏",
+            "description": "有背景",
+            "name": "hemin_3",
+            "position": [
+                -170,
+                -120
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225928.png"
+        },
+        {
+            "title": "㭴野",
+            "description": "有背景",
+            "name": "jianye_2",
+            "position": [
+                -120,
+                -180
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 300,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225942.png"
+        },
+        {
+            "title": "㭴野",
+            "description": "有背景",
+            "name": "jianye_3",
+            "position": [
+                -140,
+                -160
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 300,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230000.png"
+        },
+        {
+            "title": "喀琅施塔得",
+            "description": "有背景",
+            "name": "kalangshitade_2",
+            "position": [
+                -250,
+                -40
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 500,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230019.png"
+        },
+        {
+            "title": "卡律布狄斯",
+            "description": "有背景",
+            "name": "kalvbudisi_2",
+            "position": [
+                -200,
+                -170
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230033.png"
+        },
+        {
+            "title": "库尔斯克",
+            "description": "有背景",
+            "name": "kuersike_2",
+            "position": [
+                -120,
+                -180
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230047.png"
+        },
+        {
+            "title": "拉菲",
+            "description": "无背景",
+            "name": "lafei_4",
+            "position": [
+                -120,
+                0
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230122.png"
+        },
+        {
+            "title": "路易九世",
+            "description": "无背景",
+            "name": "luyijiushi_2",
+            "position": [
+                -50,
+                -50
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230144.png"
+        },
+        {
+            "title": "欧根亲王",
+            "description": "背景",
+            "name": "ougen_5",
+            "position": [
+                -250,
+                -350
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230201.png"
+        },
+        {
+            "title": "欧根亲王",
+            "description": "背景",
+            "name": "ougen_6",
+            "position": [
+                -220,
+                -250
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230221.png"
+        },
+        {
+            "title": "欧若拉",
+            "description": "背景",
+            "name": "ouruola_4",
+            "position": [
+                -100,
+                -20
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230319.png"
+        },
+        {
+            "title": "企业",
+            "description": "有背景",
+            "name": "qiye_7",
+            "position": [
+                -200,
+                -90
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230342.png"
+        },
+        {
+            "title": "企业",
+            "description": "有背景",
+            "name": "qiye_9",
+            "position": [
+                -150,
+                -120
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230422.png"
+        },
+        {
+            "title": "圣路易斯",
+            "description": "无背景",
+            "name": "shengluyisi_2",
+            "position": [
+                -80,
+                0
+            ],
+            "scale": 0.17,
+            "stageStyle": {
+                "height": 420,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230449.png"
+        },
+        {
+            "title": "圣路易斯",
+            "description": "有背景",
+            "name": "shengluyisi_4",
+            "position": [
+                -30,
+                -100
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230502.png"
+        },
+        {
+            "title": "天城",
+            "description": "有背景",
+            "name": "tiancheng_3",
+            "position": [
+                -180,
+                -120
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 300,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230531.png"
+        },
+        {
+            "title": "天狼星",
+            "description": "有背景",
+            "name": "tianlangxing_3",
+            "position": [
+                -140,
+                -30
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230558.png"
+        },
+        {
+            "title": "吾妻",
+            "description": "有背景",
+            "name": "wuqi_2",
+            "position": [
+                -150,
+                -25
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230633.png"
+        },
+        {
+            "title": "信浓",
+            "description": "有背景",
+            "name": "xinnong_3",
+            "position": [
+                -170,
+                -150
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230653.png"
+        },
+        {
+            "title": "新泽西",
+            "description": "有背景",
+            "name": "xinzexi_3",
+            "position": [
+                -150,
+                -170
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230709.png"
+        },
+        {
+            "title": "絮库夫",
+            "description": "有背景",
+            "name": "xukufu_3",
+            "position": [
+                -80,
+                -70
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230742.png"
+        },
+        {
+            "title": "雅努斯",
+            "description": "有背景",
+            "name": "yanusi_3",
+            "position": [
+                -160,
+                -150
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230802.png"
+        },
+        {
+            "title": "埃尔斯贝特",
+            "description": "有背景",
+            "name": "yibei_3",
+            "position": [
+                -100,
+                -30
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230825.png"
+        }
+    ],
+    "BengHuai2": [
+        {
+            "title": "布洛妮娅",
+            "name": "bronya",
+            "position": [
+                -15,
+                0
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 350,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133112.png"
+        },
+        {
+            "title": "八重樱",
+            "name": "BYC",
+            "position": [
+                -15,
+                -50
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 350,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133145.png"
+        },
+        {
+            "title": "耀夜姬",
+            "name": "kaguya",
+            "position": [
+                -50,
+                0
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133252.png"
+        },
+        {
+            "title": "柯罗伊",
+            "name": "keluoyi",
+            "position": [
+                -50,
+                0
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134335.png"
+        },
+        {
+            "title": "时雨绮罗",
+            "name": "Kiro",
+            "position": [
+                -80,
+                20
+            ],
+            "scale": 0.22,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134422.png"
+        },
+        {
+            "title": "丽塔",
+            "name": "Lita",
+            "position": [
+                -60,
+                20
+            ],
+            "scale": 0.22,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134501.png"
+        },
+        {
+            "title": "宁蒂",
+            "name": "Nindi",
+            "position": [
+                20,
+                0
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134518.png"
+        },
+        {
+            "title": "希儿",
+            "name": "xier",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134543.png"
+        },
+        {
+            "title": "西琳",
+            "name": "xilin2.1",
+            "position": [
+                -100,
+                -90
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 450,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429135158.png"
+        }
+    ],
+    "GirlsFrontline": [
+        {
+            "title": "88式",
+            "description": "默认立绘-重创",
+            "name": "88@destroy",
+            "position": [
+                -30,
+                -10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 300
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114810.png"
+        },
+        {
+            "title": "88式",
+            "description": "默认立绘-正常",
+            "name": "88@normal",
+            "position": [
+                -100,
+                -5
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 450,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114845.png"
+        },
+        {
+            "title": "95式",
+            "description": "玉玲珑-重创",
+            "name": "95@destroy",
+            "position": [
+                -40,
+                5
+            ],
+            "scale": 0.4,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114908.png"
+        },
+        {
+            "title": "DP-12",
+            "description": "花月夜行灯-重创",
+            "name": "dp12@destroy",
+            "position": [
+                -10,
+                20
+            ],
+            "scale": 0.04,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114923.png"
+        },
+        {
+            "title": "DSR-50",
+            "description": "红牡丹-正常",
+            "name": "dsr50@destroy",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114950.png"
+        },
+        {
+            "title": "DSR-50",
+            "description": "红牡丹-重创",
+            "name": "dsr50@normal",
+            "position": [
+                10,
+                -15
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115017.png"
+        },
+        {
+            "title": "DSR-50",
+            "description": "最高出价-重创",
+            "name": "dsr50_2101@destroy",
+            "position": [
+                -20,
+                -40
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115036.png"
+        },
+        {
+            "title": "DSR-50",
+            "description": "最高出价-正常",
+            "name": "dsr50_2101@normal",
+            "position": [
+                -30,
+                40
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115105.png"
+        },
+        {
+            "title": "G36C",
+            "description": "灼眼的G36C-重创",
+            "name": "g36c_3802@destroy",
+            "position": [
+                -10,
+                40
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115128.png"
+        },
+        {
+            "title": "G36C",
+            "description": "灼眼的G36C-正常",
+            "name": "g36c_3802@normal",
+            "position": [
+                -30,
+                35
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115145.png"
+        },
+        {
+            "title": "G41",
+            "description": "沙滩朋克2064-正常",
+            "name": "g41_2401@normal",
+            "position": [
+                0,
+                0
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115211.png"
+        },
+        {
+            "title": "刘氏步枪",
+            "description": "垂枝梦狐影-重创",
+            "name": "generalliu_5101@destroy",
+            "position": [
+                -15,
+                -20
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115228.png"
+        },
+        {
+            "title": "HK416",
+            "description": "星之茧-正常",
+            "name": "hk416_805@normal",
+            "position": [
+                -30,
+                15
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115249.png"
+        },
+        {
+            "title": "K2",
+            "description": "黎明之前-重创",
+            "name": "k2_3301@destroy",
+            "position": [
+                -40,
+                50
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 350,
+                "width": 420
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115326.png"
+        },
+        {
+            "title": "K2",
+            "description": "黎明之前-正常",
+            "name": "k2_3301@normal",
+            "position": [
+                -40,
+                40
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115347.png"
+        },
+        {
+            "title": "索米",
+            "description": "幸福使命-重创",
+            "name": "kp31_3101@destroy",
+            "position": [
+                -40,
+                40
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115417.png"
+        },
+        {
+            "title": "刘易斯",
+            "description": "圣夜约定-重创",
+            "name": "lewis_4001@destroy",
+            "position": [
+                -40,
+                35
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115441.png"
+        },
+        {
+            "title": "刘易斯",
+            "description": "迎寒客-正常",
+            "name": "lewis_5501@normal",
+            "position": [
+                0,
+                10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115501.png"
+        },
+        {
+            "title": "M950A",
+            "description": "柳莺与蔷薇-正常",
+            "name": "m950a_4302@normal",
+            "position": [
+                20,
+                0
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115524.png"
+        },
+        {
+            "title": "OTs-14",
+            "description": "紫雨心-重创",
+            "name": "ots14_3001@destroy",
+            "position": [
+                0,
+                -10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115542.png"
+        },
+        {
+            "title": "OTs-14",
+            "description": "紫雨心-正常",
+            "name": "ots14_3001@normal",
+            "position": [
+                -20,
+                25
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115614.png"
+        },
+        {
+            "title": "PA-15",
+            "description": "高校心跳物语-重创",
+            "name": "pa15_3701@destroy",
+            "position": [
+                -30,
+                -20
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115636.png"
+        },
+        {
+            "title": "PA-15",
+            "description": "高校心跳物语-正常",
+            "name": "pa15_3701@normal",
+            "position": [
+                -10,
+                10
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115703.png"
+        },
+        {
+            "title": "R93",
+            "description": "长假幸运星-重创",
+            "name": "r93_3501@destroy",
+            "position": [
+                -60,
+                -20
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115743.png"
+        },
+        {
+            "title": "R93",
+            "description": "长假幸运星-正常",
+            "name": "r93_3501@normal",
+            "position": [
+                -140,
+                -20
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115801.png"
+        },
+        {
+            "title": "RFB",
+            "description": "RFB偷走圣诞节-重创",
+            "name": "rfb_1601@destroy",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115835.png"
+        },
+        {
+            "title": "RFB",
+            "description": "RFB偷走圣诞节-正常",
+            "name": "rfb_1601@normal",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 450,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115905.png"
+        },
+        {
+            "title": "64式自",
+            "description": "新年祈愿-重创",
+            "name": "type64-ar_2901@destroy",
+            "position": [
+                0,
+                0
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 450,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115925.png"
+        },
+        {
+            "title": "维克托",
+            "description": "盲信者-正常",
+            "name": "vector_1901@normal",
+            "position": [
+                0,
+                30
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 450,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115944.png"
+        },
+        {
+            "title": "ZB-26",
+            "description": "旖梦之隅-重创",
+            "name": "zb26_4703@destroy",
+            "position": [
+                10,
+                50
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430120007.png"
+        }
+    ],
+    "VenusScramble": [
+        {
+            "title": "芙蕾雅",
+            "name": "player_unit_00001",
+            "position": [
+                40,
+                10
+            ],
+            "scale": 0.17,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234223.png"
+        },
+        {
+            "title": "芙蕾雅",
+            "name": "player_unit_00051",
+            "position": [
+                40,
+                10
+            ],
+            "scale": 0.17,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234240.png"
+        }
+    ],
+    "Sin": [
+        {
+            "title": "?",
+            "name": "xch001_01",
+            "position": [
+                50,
+                -30
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234317.png"
+        },
+        {
+            "title": "?",
+            "name": "xch001b_01",
+            "position": [
+                -10,
+                -20
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234346.png"
+        },
+        {
+            "title": "?",
+            "name": "xch003_01",
+            "position": [
+                -10,
+                10
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234402.png"
+        },
+        {
+            "title": "?",
+            "name": "xch004_01",
+            "position": [
+                20,
+                -10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234556.png"
+        },
+        {
+            "title": "?",
+            "name": "xch005_01",
+            "position": [
+                40,
+                10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234616.png"
+        },
+        {
+            "title": "?",
+            "name": "xch007a_01",
+            "position": [
+                60,
+                40
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234629.png"
+        },
+        {
+            "title": "?",
+            "name": "xch007_01",
+            "position": [
+                60,
+                60
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234648.png"
+        },
+        {
+            "title": "?",
+            "name": "xch010_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234706.png"
+        },
+        {
+            "title": "?",
+            "name": "xch012_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234734.png"
+        },
+        {
+            "title": "?",
+            "name": "xch016_01",
+            "position": [
+                30,
+                60
+            ],
+            "scale": 0.14,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235009.png"
+        },
+        {
+            "title": "?",
+            "name": "xco004_01",
+            "position": [
+                30,
+                60
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235028.png"
+        },
+        {
+            "title": "?",
+            "name": "xco005a_01",
+            "position": [
+                20,
+                30
+            ],
+            "scale": 0.04,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235124.png"
+        },
+        {
+            "title": "?",
+            "name": "xco005_01",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235141.png"
+        },
+        {
+            "title": "?",
+            "name": "xco011a_01",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235153.png"
+        },
+        {
+            "title": "?",
+            "name": "xco011_01",
+            "position": [
+                10,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235202.png"
+        },
+        {
+            "title": "?",
+            "name": "xco013a_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235213.png"
+        },
+        {
+            "title": "?",
+            "name": "xco013_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235225.png"
+        },
+        {
+            "title": "?",
+            "name": "xco017_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235235.png"
+        },
+        {
+            "title": "?",
+            "name": "xco019_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235247.png"
+        },
+        {
+            "title": "?",
+            "name": "xco025_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235256.png"
+        },
+        {
+            "title": "?",
+            "name": "xco028_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235307.png"
+        },
+        {
+            "title": "?",
+            "name": "xco037_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235316.png"
+        },
+        {
+            "title": "?",
+            "name": "xco076_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235331.png"
+        },
+        {
+            "title": "?",
+            "name": "xco502_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235340.png"
+        },
+        {
+            "title": "?",
+            "name": "ych001b_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235350.png"
+        },
+        {
+            "title": "?",
+            "name": "ych001_01",
+            "position": [
+                20,
+                90
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235410.png"
+        },
+        {
+            "title": "?",
+            "name": "ych004_01",
+            "position": [
+                0,
+                90
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235426.png"
+        },
+        {
+            "title": "?",
+            "name": "ych007a_01",
+            "position": [
+                0,
+                90
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235436.png"
+        },
+        {
+            "title": "?",
+            "name": "ych011_01",
+            "position": [
+                0,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235447.png"
+        },
+        {
+            "title": "?",
+            "name": "ych014_01",
+            "position": [
+                0,
+                100
+            ],
+            "scale": 0.12,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235459.png"
+        },
+        {
+            "title": "?",
+            "name": "ych015_01",
+            "position": [
+                0,
+                100
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235511.png"
+        },
+        {
+            "title": "?",
+            "name": "yco004_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235522.png"
+        },
+        {
+            "title": "?",
+            "name": "yco005a_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235534.png"
+        },
+        {
+            "title": "?",
+            "name": "yco005_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.045,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235548.png"
+        },
+        {
+            "title": "?",
+            "name": "yco011a_01",
+            "position": [
+                10,
+                100
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235602.png"
+        },
+        {
+            "title": "?",
+            "name": "yco013a_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235613.png"
+        },
+        {
+            "title": "?",
+            "name": "yco017_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235623.png"
+        },
+        {
+            "title": "?",
+            "name": "yco019_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235633.png"
+        },
+        {
+            "title": "?",
+            "name": "yco021_01",
+            "position": [
+                10,
+                30
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235644.png"
+        },
+        {
+            "title": "?",
+            "name": "yco025_01",
+            "position": [
+                10,
+                30
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235656.png"
+        }
+    ]
+}
