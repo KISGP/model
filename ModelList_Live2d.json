@@ -38,42 +38,6 @@
         },
         {
             "configuration": {
-                "name": "aijier_2",
-                "position": [
-                    -50,
-                    35
-                ],
-                "scale": 0.05,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/aijier_2/aijier_2.model3.json"
-            },
-            "title": "埃吉尔",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428231033.png"
-        },
-        {
-            "configuration": {
-                "name": "aijier_3",
-                "position": [
-                    -70,
-                    35
-                ],
-                "scale": 0.05,
-                "stageStyle": {
-                    "height": 470,
-                    "width": 280
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/aijier_3/aijier_3.model3.json"
-            },
-            "title": "埃吉尔",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428224924.png"
-        },
-        {
-            "configuration": {
                 "name": "aimierbeierding_3",
                 "position": [
                     -180,
@@ -89,42 +53,6 @@
             "title": "埃米尔·贝尔汀",
             "description": "有背景",
             "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428224944.png"
-        },
-        {
-            "configuration": {
-                "name": "ankeleiqi_2",
-                "position": [
-                    -200,
-                    -50
-                ],
-                "scale": 0.08,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 350
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/ankeleiqi_2/ankeleiqi_2.model3.json"
-            },
-            "title": "安克雷奇",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225211.png"
-        },
-        {
-            "configuration": {
-                "name": "baerdimo_6",
-                "position": [
-                    -250,
-                    -140
-                ],
-                "scale": 0.09,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/baerdimo_6/baerdimo_6.model3.json"
-            },
-            "title": "巴尔的摩",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225242.png"
         },
         {
             "configuration": {
@@ -146,24 +74,6 @@
         },
         {
             "configuration": {
-                "name": "beikaluolaina_2",
-                "position": [
-                    -190,
-                    -180
-                ],
-                "scale": 0.09,
-                "stageStyle": {
-                    "height": 350,
-                    "width": 400
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/beikaluolaina_2/beikaluolaina_2.model3.json"
-            },
-            "title": "北卡罗来纳",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225347.png"
-        },
-        {
-            "configuration": {
                 "name": "bisimai_2",
                 "position": [
                     -200,
@@ -179,42 +89,6 @@
             "title": "俾斯麦",
             "description": "有背景",
             "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225417.png"
-        },
-        {
-            "configuration": {
-                "name": "boyixi_2",
-                "position": [
-                    -200,
-                    -180
-                ],
-                "scale": 0.09,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/boyixi_2/boyixi_2.model3.json"
-            },
-            "title": "博伊西",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225438.png"
-        },
-        {
-            "configuration": {
-                "name": "chaijun_3",
-                "position": [
-                    -200,
-                    -80
-                ],
-                "scale": 0.06,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/chaijun_3/chaijun_3.model3.json"
-            },
-            "title": "柴郡",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225513.png"
         },
         {
             "configuration": {
@@ -236,24 +110,6 @@
         },
         {
             "configuration": {
-                "name": "dafeng_3",
-                "position": [
-                    -35,
-                    -80
-                ],
-                "scale": 0.08,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 350
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_3/dafeng_3.model3.json"
-            },
-            "title": "大凤",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225633.png"
-        },
-        {
-            "configuration": {
                 "name": "dafeng_4",
                 "position": [
                     -160,
@@ -272,78 +128,6 @@
         },
         {
             "configuration": {
-                "name": "dafeng_6",
-                "position": [
-                    -80,
-                    -80
-                ],
-                "scale": 0.06,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 350
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_6/dafeng_6.model3.json"
-            },
-            "title": "大凤",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225732.png"
-        },
-        {
-            "configuration": {
-                "name": "dunkeerke_2",
-                "position": [
-                    -130,
-                    -70
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 450,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dunkeerke_2/dunkeerke_2.model3.json"
-            },
-            "title": "敦刻尔克",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225750.png"
-        },
-        {
-            "configuration": {
-                "name": "edu_4",
-                "position": [
-                    -340,
-                    -120
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 450,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/edu_4/edu_4.model3.json"
-            },
-            "title": "恶毒",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225805.png"
-        },
-        {
-            "configuration": {
-                "name": "geliqiya_2",
-                "position": [
-                    -170,
-                    -130
-                ],
-                "scale": 0.06,
-                "stageStyle": {
-                    "height": 450,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/geliqiya_2/geliqiya_2.model3.json"
-            },
-            "title": "戈里齐亚",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225828.png"
-        },
-        {
-            "configuration": {
                 "name": "guangrong_3",
                 "position": [
                     -80,
@@ -359,150 +143,6 @@
             "title": "光荣",
             "description": "有背景",
             "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225840.png"
-        },
-        {
-            "configuration": {
-                "name": "hailunna_4",
-                "position": [
-                    -100,
-                    -120
-                ],
-                "scale": 0.08,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/hailunna_4/hailunna_4.model3.json"
-            },
-            "title": " 海伦娜",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225853.png"
-        },
-        {
-            "configuration": {
-                "name": "hemin_2",
-                "position": [
-                    -100,
-                    -120
-                ],
-                "scale": 0.13,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/hemin_2/hemin_2.model3.json"
-            },
-            "title": "赫敏",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225909.png"
-        },
-        {
-            "configuration": {
-                "name": "hemin_3",
-                "position": [
-                    -170,
-                    -120
-                ],
-                "scale": 0.09,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/hemin_3/hemin_3.model3.json"
-            },
-            "title": "赫敏",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225928.png"
-        },
-        {
-            "configuration": {
-                "name": "jianye_2",
-                "position": [
-                    -120,
-                    -180
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 350
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/jianye_2/jianye_2.model3.json"
-            },
-            "title": "㭴野",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225942.png"
-        },
-        {
-            "configuration": {
-                "name": "jianye_3",
-                "position": [
-                    -140,
-                    -160
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 350
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/jianye_3/jianye_3.model3.json"
-            },
-            "title": "㭴野",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230000.png"
-        },
-        {
-            "configuration": {
-                "name": "kalangshitade_2",
-                "position": [
-                    -250,
-                    -40
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 500,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/kalangshitade_2/kalangshitade_2.model3.json"
-            },
-            "title": "喀琅施塔得",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230019.png"
-        },
-        {
-            "configuration": {
-                "name": "kalvbudisi_2",
-                "position": [
-                    -200,
-                    -170
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/kalvbudisi_2/kalvbudisi_2.model3.json"
-            },
-            "title": "卡律布狄斯",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230033.png"
-        },
-        {
-            "configuration": {
-                "name": "kuersike_2",
-                "position": [
-                    -120,
-                    -180
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/kuersike_2/kuersike_2.model3.json"
-            },
-            "title": "库尔斯克",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230047.png"
         },
         {
             "configuration": {
@@ -542,42 +182,6 @@
         },
         {
             "configuration": {
-                "name": "ougen_5",
-                "position": [
-                    -250,
-                    -350
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/ougen_5/ougen_5.model3.json"
-            },
-            "title": "欧根亲王",
-            "description": "背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230201.png"
-        },
-        {
-            "configuration": {
-                "name": "ougen_6",
-                "position": [
-                    -220,
-                    -250
-                ],
-                "scale": 0.09,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/ougen_6/ougen_6.model3.json"
-            },
-            "title": "欧根亲王",
-            "description": "背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230221.png"
-        },
-        {
-            "configuration": {
                 "name": "ouruola_4",
                 "position": [
                     -100,
@@ -596,42 +200,6 @@
         },
         {
             "configuration": {
-                "name": "qiye_7",
-                "position": [
-                    -200,
-                    -90
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 450,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/qiye_7/qiye_7.model3.json"
-            },
-            "title": "企业",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230342.png"
-        },
-        {
-            "configuration": {
-                "name": "qiye_9",
-                "position": [
-                    -150,
-                    -120
-                ],
-                "scale": 0.07,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/qiye_9/qiye_9.model3.json"
-            },
-            "title": "企业",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230422.png"
-        },
-        {
-            "configuration": {
                 "name": "shengluyisi_2",
                 "position": [
                     -80,
@@ -647,42 +215,6 @@
             "title": "圣路易斯",
             "description": "无背景",
             "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230449.png"
-        },
-        {
-            "configuration": {
-                "name": "shengluyisi_4",
-                "position": [
-                    -30,
-                    -100
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 450,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/shengluyisi_4/shengluyisi_4.model3.json"
-            },
-            "title": "圣路易斯",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230502.png"
-        },
-        {
-            "configuration": {
-                "name": "tiancheng_3",
-                "position": [
-                    -180,
-                    -120
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 300,
-                    "width": 400
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/tiancheng_3/tiancheng_3.model3.json"
-            },
-            "title": "天城",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230531.png"
         },
         {
             "configuration": {
@@ -722,42 +254,6 @@
         },
         {
             "configuration": {
-                "name": "xinnong_3",
-                "position": [
-                    -170,
-                    -150
-                ],
-                "scale": 0.1,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/xinnong_3/xinnong_3.model3.json"
-            },
-            "title": "信浓",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230653.png"
-        },
-        {
-            "configuration": {
-                "name": "xinzexi_3",
-                "position": [
-                    -150,
-                    -170
-                ],
-                "scale": 0.08,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/xinzexi_3/xinzexi_3.model3.json"
-            },
-            "title": "新泽西",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230709.png"
-        },
-        {
-            "configuration": {
                 "name": "xukufu_3",
                 "position": [
                     -80,
@@ -773,24 +269,6 @@
             "title": "絮库夫",
             "description": "有背景",
             "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230742.png"
-        },
-        {
-            "configuration": {
-                "name": "yanusi_3",
-                "position": [
-                    -160,
-                    -150
-                ],
-                "scale": 0.13,
-                "stageStyle": {
-                    "height": 400,
-                    "width": 300
-                },
-                "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/yanusi_3/yanusi_3.model3.json"
-            },
-            "title": "雅努斯",
-            "description": "有背景",
-            "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230802.png"
         },
         {
             "configuration": {
