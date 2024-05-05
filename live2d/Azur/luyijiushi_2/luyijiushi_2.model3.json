@@ -7,7 +7,7 @@
     ],
     "Physics": "luyijiushi_2.physics3.json",
     "Motions": {
-      "": [
+      "Idle": [
         {
           "File": "motions/idle.motion3.json"
         },

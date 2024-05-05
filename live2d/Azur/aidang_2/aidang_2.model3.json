@@ -7,7 +7,7 @@
     ],
     "Physics": "aidang_2.physics3.json",
     "Motions": {
-      "": [
+      "Idle": [
         {
           "File": "motions/mission.motion3.json"
         },

@@ -7,7 +7,7 @@
     ],
     "Physics": "abeikelongbi_3.physics3.json",
     "Motions": {
-      "": [
+      "Idle": [
         {
           "File": "motions/touch_special.motion3.json"
         },
