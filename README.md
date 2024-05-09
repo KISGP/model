@@ -18,13 +18,13 @@
 
 - [ModelTranslation.json](https://github.com/kisssssssss/model/blob/main/ModelTranslation.json)：Live2d 文件夹下每个文件夹对应的游戏名。
 - [ModelList_Live2d.json](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d.json)：live2d 模型具体信息和配置，如在网页的位置及缩放比例等。（所有模型）
-  - [ModelList_Live2d_Azur]()：碧蓝航线 模型列表
-  - [ModelList_Live2d_BengHuai2]()：崩坏学园2 模型列表
-  - [ModelList_Live2d_GirlsFrontline]()：少女前线 模型列表
-  - [ModelList_Live2d_shuangshengshijie]()：双生视界 少女咖啡枪 模型列表
-  - [ModelList_Live2d_Sin]()：sin 七大罪～魔王崇拜～模型列表
-  - [ModelList_Live2d_StarRail]()：崩坏: 星穷铁道 模型列表
-  - [ModelList_Live2d_VenusScramble]()：女神大乱战 模型列表
+  - [ModelList_Live2d_Azur](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_Azur.json)：碧蓝航线 模型列表
+  - [ModelList_Live2d_BengHuai2](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_BengHuai2.json)：崩坏学园2 模型列表
+  - [ModelList_Live2d_GirlsFrontline](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_GirlsFrontline.json)：少女前线 模型列表
+  - [ModelList_Live2d_shuangshengshijie](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_shuangshengshijie.json)：双生视界 少女咖啡枪 模型列表
+  - [ModelList_Live2d_Sin](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_Sin.json)：sin 七大罪～魔王崇拜～模型列表
+  - [ModelList_Live2d_StarRail](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_StarRail.json)：崩坏: 星穷铁道 模型列表
+  - [ModelList_Live2d_VenusScramble](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_VenusScramble.json)：女神大乱战 模型列表
 
 ---
 
