@@ -1,1 +1,2353 @@
-{"StarRail":[{"configuration":{"name":"符玄","position":[20,0],"scale":0.05,"stageStyle":{"height":410,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/符玄/符玄.model3.json"},"title":"符玄","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161830.png"},{"configuration":{"name":"花火","position":[0,10],"scale":0.09,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/xch001_01/xch001_01.model3.json"},"title":"花火","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161633.png"},{"configuration":{"name":"藿藿","position":[0,0],"scale":0.05,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/藿藿/藿藿.model3.json"},"title":"藿藿","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161741.png"},{"configuration":{"name":"镜流","position":[-20,-15],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/镜流/镜流.model3.json"},"title":"镜流","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161812.png"},{"configuration":{"name":"卡夫卡","position":[10,-20],"scale":0.07,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/卡夫卡/卡夫卡.model3.json"},"title":"卡夫卡","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161422.png"}],"Azur":[{"configuration":{"name":"abeikelongbi_3","position":[0,50],"scale":0.05,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/abeikelongbi_3/abeikelongbi_3.model3.json"},"title":"阿贝克隆比","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230926.png"},{"configuration":{"name":"aidang_2","position":[0,35],"scale":0.1,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/aidang_2/aidang_2.model3.json"},"title":"爱宕","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230952.png"},{"configuration":{"name":"beierfasite_2","position":[-120,-70],"scale":0.13,"stageStyle":{"height":450,"width":250},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/beierfasite_2/beierfasite_2.model3.json"},"title":"贝尔法斯特","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225324.png"},{"configuration":{"name":"dafeng_2","position":[-150,-60],"scale":0.09,"stageStyle":{"height":450,"width":330},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_2/dafeng_2.model3.json"},"title":"大凤","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225544.png"},{"configuration":{"name":"dafeng_4","position":[-160,-30],"scale":0.09,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_4/dafeng_4.model3.json"},"title":"大凤","description":"有背景","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225702.png"},{"configuration":{"name":"lafei_4","position":[-120,0],"scale":0.07,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/lafei_4/lafei_4.model3.json"},"title":"拉菲","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230122.png"},{"configuration":{"name":"luyijiushi_2","position":[-50,-50],"scale":0.06,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/luyijiushi_2/luyijiushi_2.model3.json"},"title":"路易九世","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230144.png"},{"configuration":{"name":"ouruola_4","position":[-100,-20],"scale":0.09,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/ouruola_4/ouruola_4.model3.json"},"title":"欧若拉","description":"背景","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230319.png"},{"configuration":{"name":"shengluyisi_2","position":[-80,0],"scale":0.17,"stageStyle":{"height":420,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/shengluyisi_2/shengluyisi_2.model3.json"},"title":"圣路易斯","description":"","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230449.png"}],"BengHuai2":[{"configuration":{"name":"bronya","position":[-15,0],"scale":0.13,"stageStyle":{"height":350,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/bronya/model.json"},"title":"布洛妮娅","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133112.png"},{"configuration":{"name":"BYC","position":[-15,-50],"scale":0.13,"stageStyle":{"height":350,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/BYC/model.json"},"title":"八重樱","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133145.png"},{"configuration":{"name":"kaguya","position":[-50,0],"scale":0.2,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/kaguya/model.json"},"title":"耀夜姬","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133252.png"},{"configuration":{"name":"keluoyi","position":[-50,0],"scale":0.2,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/keluoyi/model.json"},"title":"柯罗伊","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134335.png"},{"configuration":{"name":"Kiro","position":[-80,20],"scale":0.22,"stageStyle":{"height":450,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Kiro/model.json"},"title":"时雨绮罗","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134422.png"},{"configuration":{"name":"Lita","position":[-60,20],"scale":0.22,"stageStyle":{"height":450,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Lita/model.json"},"title":"丽塔","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134501.png"},{"configuration":{"name":"Nindi","position":[20,0],"scale":0.09,"stageStyle":{"height":450,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Nindi/model.json"},"title":"宁蒂","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134518.png"},{"configuration":{"name":"xier","position":[30,20],"scale":0.15,"stageStyle":{"height":450,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xier/model.json"},"title":"希儿","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134543.png"},{"configuration":{"name":"xilin2.1","position":[-100,-90],"scale":0.2,"stageStyle":{"height":450,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xilin2.1/model.json"},"title":"西琳","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429135158.png"}],"GirlsFrontline":[{"configuration":{"name":"88@destroy","position":[-30,-10],"scale":0.1,"stageStyle":{"height":400,"width":300},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/88@destroy/destroy.model3.json"},"title":"88式","description":"默认立绘-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114810.png"},{"configuration":{"name":"88@normal","position":[-100,-5],"scale":0.08,"stageStyle":{"height":450,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/88@normal/normal.model3.json"},"title":"88式","description":"默认立绘-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114845.png"},{"configuration":{"name":"95@destroy","position":[-40,5],"scale":0.4,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/95@destroy/destroy.model3.json"},"title":"95式","description":"玉玲珑-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114908.png"},{"configuration":{"name":"dp12@destroy","position":[-10,20],"scale":0.04,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dp12@destroy/destroy.model3.json"},"title":"DP-12","description":"花月夜行灯-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114923.png"},{"configuration":{"name":"dsr50@destroy","position":[-10,0],"scale":0.07,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50@destroy/destroy.model3.json"},"title":"DSR-50","description":"红牡丹-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114950.png"},{"configuration":{"name":"dsr50@normal","position":[10,-15],"scale":0.07,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50@normal/normal.model3.json"},"title":"DSR-50","description":"红牡丹-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115017.png"},{"configuration":{"name":"dsr50_2101@destroy","position":[-20,-40],"scale":0.07,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50_2101@destroy/destroy.model3.json"},"title":"DSR-50","description":"最高出价-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115036.png"},{"configuration":{"name":"dsr50_2101@normal","position":[-30,40],"scale":0.06,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50_2101@normal/normal.model3.json"},"title":"DSR-50","description":"最高出价-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115105.png"},{"configuration":{"name":"g36c_3802@destroy","position":[-10,40],"scale":0.1,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g36c_3802@destroy/destroy.model3.json"},"title":"G36C","description":"灼眼的G36C-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115128.png"},{"configuration":{"name":"g36c_3802@normal","position":[-30,35],"scale":0.1,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g36c_3802@normal/normal.model3.json"},"title":"G36C","description":"灼眼的G36C-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115145.png"},{"configuration":{"name":"g41_2401@normal","position":[0,0],"scale":0.08,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g41_2401@normal/normal.model3.json"},"title":"G41","description":"沙滩朋克2064-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115211.png"},{"configuration":{"name":"generalliu_5101@destroy","position":[-15,-20],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/generalliu_5101@destroy/destroy.model3.json"},"title":"刘氏步枪","description":"垂枝梦狐影-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115228.png"},{"configuration":{"name":"hk416_805@normal","position":[-30,15],"scale":0.08,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/hk416_805@normal/normal.model3.json"},"title":"HK416","description":"星之茧-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115249.png"},{"configuration":{"name":"k2_3301@destroy","position":[-40,50],"scale":0.1,"stageStyle":{"height":350,"width":420},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/k2_3301@destroy/destroy.model3.json"},"title":"K2","description":"黎明之前-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115326.png"},{"configuration":{"name":"k2_3301@normal","position":[-40,40],"scale":0.09,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/k2_3301@normal/normal.model3.json"},"title":"K2","description":"黎明之前-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115347.png"},{"configuration":{"name":"kp31_3101@destroy","position":[-40,40],"scale":0.07,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/kp31_3101@destroy/destroy.model3.json"},"title":"索米","description":"幸福使命-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115417.png"},{"configuration":{"name":"lewis_4001@destroy","position":[-40,35],"scale":0.09,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/lewis_4001@destroy/destroy.model3.json"},"title":"刘易斯","description":"圣夜约定-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115441.png"},{"configuration":{"name":"lewis_5501@normal","position":[0,10],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/lewis_5501@normal/normal.model3.json"},"title":"刘易斯","description":"迎寒客-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115501.png"},{"configuration":{"name":"m950a_4302@normal","position":[20,0],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/m950a_4302@normal/normal.model3.json"},"title":"M950A","description":"柳莺与蔷薇-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115524.png"},{"configuration":{"name":"ots14_3001@destroy","position":[0,-10],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/ots14_3001@destroy/destroy.model3.json"},"title":"OTs-14","description":"紫雨心-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115542.png"},{"configuration":{"name":"ots14_3001@normal","position":[-20,25],"scale":0.08,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/ots14_3001@normal/normal.model3.json"},"title":"OTs-14","description":"紫雨心-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115614.png"},{"configuration":{"name":"pa15_3701@destroy","position":[-30,-20],"scale":0.15,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/pa15_3701@destroy/destroy.model3.json"},"title":"PA-15","description":"高校心跳物语-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115636.png"},{"configuration":{"name":"pa15_3701@normal","position":[-10,10],"scale":0.13,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/pa15_3701@normal/normal.model3.json"},"title":"PA-15","description":"高校心跳物语-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115703.png"},{"configuration":{"name":"r93_3501@destroy","position":[-60,-20],"scale":0.09,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/r93_3501@destroy/destroy.model3.json"},"title":"R93","description":"长假幸运星-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115743.png"},{"configuration":{"name":"r93_3501@normal","position":[-140,-20],"scale":0.09,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/r93_3501@normal/normal.model3.json"},"title":"R93","description":"长假幸运星-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115801.png"},{"configuration":{"name":"rfb_1601@destroy","position":[-10,0],"scale":0.1,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/rfb_1601@destroy/destroy.model3.json"},"title":"RFB","description":"RFB偷走圣诞节-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115835.png"},{"configuration":{"name":"rfb_1601@normal","position":[-10,0],"scale":0.08,"stageStyle":{"height":450,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/rfb_1601@normal/normal.model3.json"},"title":"RFB","description":"RFB偷走圣诞节-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115905.png"},{"configuration":{"name":"type64-ar_2901@destroy","position":[0,0],"scale":0.11,"stageStyle":{"height":450,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/type64-ar_2901@destroy/destroy.model3.json"},"title":"64式自","description":"新年祈愿-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115925.png"},{"configuration":{"name":"vector_1901@normal","position":[0,30],"scale":0.11,"stageStyle":{"height":450,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/vector_1901@normal/normal.model3.json"},"title":"维克托","description":"盲信者-正常","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115944.png"},{"configuration":{"name":"zb26_4703@destroy","position":[10,50],"scale":0.1,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/zb26_4703@destroy/destroy.model3.json"},"title":"ZB-26","description":"旖梦之隅-重创","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430120007.png"}],"VenusScramble":[{"configuration":{"name":"player_unit_00001","position":[40,10],"scale":0.17,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/VenusScramble/player_unit_00001/model.json"},"title":"芙蕾雅","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234223.png"},{"configuration":{"name":"player_unit_00051","position":[40,10],"scale":0.17,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/VenusScramble/player_unit_00051/model.json"},"title":"芙蕾雅","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234240.png"}],"Sin":[{"configuration":{"name":"xch001_01","position":[50,-30],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001_01/xch001_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234317.png"},{"configuration":{"name":"xch001b_01","position":[-10,-20],"scale":0.15,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001b_01/xch001b_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234346.png"},{"configuration":{"name":"xch003_01","position":[-10,10],"scale":0.15,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch003_01/xch003_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234402.png"},{"configuration":{"name":"xch004_01","position":[20,-10],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch004_01/xch004_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234556.png"},{"configuration":{"name":"xch005_01","position":[40,10],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch005_01/xch005_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234616.png"},{"configuration":{"name":"xch007a_01","position":[60,40],"scale":0.1,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007a_01/xch007a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234629.png"},{"configuration":{"name":"xch007_01","position":[60,60],"scale":0.1,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007_01/xch007_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234648.png"},{"configuration":{"name":"xch010_01","position":[20,60],"scale":0.07,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch010_01/xch010_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234706.png"},{"configuration":{"name":"xch012_01","position":[20,60],"scale":0.08,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch012_01/xch012_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234734.png"},{"configuration":{"name":"xch016_01","position":[30,60],"scale":0.14,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch016_01/xch016_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235009.png"},{"configuration":{"name":"xco004_01","position":[30,60],"scale":0.1,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco004_01/xco004_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235028.png"},{"configuration":{"name":"xco005a_01","position":[20,30],"scale":0.04,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005a_01/xco005a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235124.png"},{"configuration":{"name":"xco005_01","position":[-10,0],"scale":0.06,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005_01/xco005_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235141.png"},{"configuration":{"name":"xco011a_01","position":[-10,0],"scale":0.1,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011a_01/xco011a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235153.png"},{"configuration":{"name":"xco011_01","position":[10,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011_01/xco011_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235202.png"},{"configuration":{"name":"xco013a_01","position":[30,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013a_01/xco013a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235213.png"},{"configuration":{"name":"xco013_01","position":[30,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013_01/xco013_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235225.png"},{"configuration":{"name":"xco017_01","position":[0,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco017_01/xco017_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235235.png"},{"configuration":{"name":"xco019_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco019_01/xco019_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235247.png"},{"configuration":{"name":"xco025_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco025_01/xco025_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235256.png"},{"configuration":{"name":"xco028_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco028_01/xco028_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235307.png"},{"configuration":{"name":"xco037_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco037_01/xco037_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235316.png"},{"configuration":{"name":"xco076_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco076_01/xco076_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235331.png"},{"configuration":{"name":"xco502_01","position":[20,20],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco502_01/xco502_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235340.png"},{"configuration":{"name":"ych001b_01","position":[20,60],"scale":0.13,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001b_01/ych001b_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235350.png"},{"configuration":{"name":"ych001_01","position":[20,90],"scale":0.15,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001_01/ych001_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235410.png"},{"configuration":{"name":"ych004_01","position":[0,90],"scale":0.13,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych004_01/ych004_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235426.png"},{"configuration":{"name":"ych007a_01","position":[0,90],"scale":0.11,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych007a_01/ych007a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235436.png"},{"configuration":{"name":"ych011_01","position":[0,80],"scale":0.13,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych011_01/ych011_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235447.png"},{"configuration":{"name":"ych014_01","position":[0,100],"scale":0.12,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych014_01/ych014_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235459.png"},{"configuration":{"name":"ych015_01","position":[0,100],"scale":0.13,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych015_01/ych015_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235511.png"},{"configuration":{"name":"yco004_01","position":[0,20],"scale":0.11,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco004_01/yco004_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235522.png"},{"configuration":{"name":"yco005a_01","position":[0,20],"scale":0.09,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005a_01/yco005a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235534.png"},{"configuration":{"name":"yco005_01","position":[30,20],"scale":0.045,"stageStyle":{"height":400,"width":350},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005_01/yco005_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235548.png"},{"configuration":{"name":"yco011a_01","position":[10,100],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco011a_01/yco011a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235602.png"},{"configuration":{"name":"yco013a_01","position":[10,80],"scale":0.13,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco013a_01/yco013a_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235613.png"},{"configuration":{"name":"yco017_01","position":[10,80],"scale":0.08,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco017_01/yco017_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235623.png"},{"configuration":{"name":"yco019_01","position":[10,80],"scale":0.13,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco019_01/yco019_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235633.png"},{"configuration":{"name":"yco021_01","position":[10,30],"scale":0.1,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco021_01/yco021_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235644.png"},{"configuration":{"name":"yco025_01","position":[10,30],"scale":0.15,"stageStyle":{"height":400,"width":400},"path":"https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco025_01/yco025_01.model3.json"},"title":"?","cover":"https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235656.png"}]}
+{
+  "StarRail": [
+    {
+      "configuration": {
+        "name": "符玄",
+        "position": [20, 0],
+        "scale": 0.05,
+        "stageStyle": { "height": 410, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/符玄/符玄.model3.json"
+      },
+      "title": "符玄",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161830.png"
+    },
+    {
+      "configuration": {
+        "name": "花火",
+        "position": [0, 10],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/xch001_01/xch001_01.model3.json"
+      },
+      "title": "花火",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161633.png"
+    },
+    {
+      "configuration": {
+        "name": "藿藿",
+        "position": [0, 0],
+        "scale": 0.05,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/藿藿/藿藿.model3.json"
+      },
+      "title": "藿藿",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161741.png"
+    },
+    {
+      "configuration": {
+        "name": "镜流",
+        "position": [-20, -15],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/镜流/镜流.model3.json"
+      },
+      "title": "镜流",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161812.png"
+    },
+    {
+      "configuration": {
+        "name": "卡夫卡",
+        "position": [10, -20],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/StarRail/卡夫卡/卡夫卡.model3.json"
+      },
+      "title": "卡夫卡",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240509161422.png"
+    }
+  ],
+  "Azur": [
+    {
+      "configuration": {
+        "name": "abeikelongbi_3",
+        "position": [0, 50],
+        "scale": 0.05,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/abeikelongbi_3/abeikelongbi_3.model3.json"
+      },
+      "title": "阿贝克隆比",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230926.png"
+    },
+    {
+      "configuration": {
+        "name": "aidang_2",
+        "position": [0, 35],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/aidang_2/aidang_2.model3.json"
+      },
+      "title": "爱宕",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230952.png"
+    },
+    {
+      "configuration": {
+        "name": "beierfasite_2",
+        "position": [-120, -70],
+        "scale": 0.13,
+        "stageStyle": { "height": 450, "width": 250 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/beierfasite_2/beierfasite_2.model3.json"
+      },
+      "title": "贝尔法斯特",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225324.png"
+    },
+    {
+      "configuration": {
+        "name": "dafeng_2",
+        "position": [-150, -60],
+        "scale": 0.09,
+        "stageStyle": { "height": 450, "width": 330 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_2/dafeng_2.model3.json"
+      },
+      "title": "大凤",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225544.png"
+    },
+    {
+      "configuration": {
+        "name": "dafeng_4",
+        "position": [-160, -30],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/dafeng_4/dafeng_4.model3.json"
+      },
+      "title": "大凤",
+      "description": "有背景",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428225702.png"
+    },
+    {
+      "configuration": {
+        "name": "lafei_4",
+        "position": [-120, 0],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/lafei_4/lafei_4.model3.json"
+      },
+      "title": "拉菲",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230122.png"
+    },
+    {
+      "configuration": {
+        "name": "luyijiushi_2",
+        "position": [-50, -50],
+        "scale": 0.06,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/luyijiushi_2/luyijiushi_2.model3.json"
+      },
+      "title": "路易九世",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230144.png"
+    },
+    {
+      "configuration": {
+        "name": "ouruola_4",
+        "position": [-100, -20],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/ouruola_4/ouruola_4.model3.json"
+      },
+      "title": "欧若拉",
+      "description": "背景",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230319.png"
+    },
+    {
+      "configuration": {
+        "name": "shengluyisi_2",
+        "position": [-80, 0],
+        "scale": 0.17,
+        "stageStyle": { "height": 420, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Azur/shengluyisi_2/shengluyisi_2.model3.json"
+      },
+      "title": "圣路易斯",
+      "description": "",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240428230449.png"
+    }
+  ],
+  "BengHuai2": [
+    {
+      "configuration": {
+        "name": "bronya",
+        "position": [-15, 0],
+        "scale": 0.13,
+        "stageStyle": { "height": 350, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/bronya/model.json"
+      },
+      "title": "布洛妮娅",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133112.png"
+    },
+    {
+      "configuration": {
+        "name": "BYC",
+        "position": [-15, -50],
+        "scale": 0.13,
+        "stageStyle": { "height": 350, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/BYC/model.json"
+      },
+      "title": "八重樱",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133145.png"
+    },
+    {
+      "configuration": {
+        "name": "kaguya",
+        "position": [-50, 0],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/kaguya/model.json"
+      },
+      "title": "耀夜姬",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133252.png"
+    },
+    {
+      "configuration": {
+        "name": "keluoyi",
+        "position": [-50, 0],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/keluoyi/model.json"
+      },
+      "title": "柯罗伊",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134335.png"
+    },
+    {
+      "configuration": {
+        "name": "Kiro",
+        "position": [-80, 20],
+        "scale": 0.22,
+        "stageStyle": { "height": 450, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Kiro/model.json"
+      },
+      "title": "时雨绮罗",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134422.png"
+    },
+    {
+      "configuration": {
+        "name": "Lita",
+        "position": [-60, 20],
+        "scale": 0.22,
+        "stageStyle": { "height": 450, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Lita/model.json"
+      },
+      "title": "丽塔",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134501.png"
+    },
+    {
+      "configuration": {
+        "name": "Nindi",
+        "position": [20, 0],
+        "scale": 0.09,
+        "stageStyle": { "height": 450, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Nindi/model.json"
+      },
+      "title": "宁蒂",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134518.png"
+    },
+    {
+      "configuration": {
+        "name": "xier",
+        "position": [30, 20],
+        "scale": 0.15,
+        "stageStyle": { "height": 450, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xier/model.json"
+      },
+      "title": "希儿",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134543.png"
+    },
+    {
+      "configuration": {
+        "name": "xilin2.1",
+        "position": [-100, -90],
+        "scale": 0.2,
+        "stageStyle": { "height": 450, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xilin2.1/model.json"
+      },
+      "title": "西琳",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429135158.png"
+    }
+  ],
+  "GirlsFrontline": [
+    {
+      "configuration": {
+        "name": "88@destroy",
+        "position": [-30, -10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/88@destroy/destroy.model3.json"
+      },
+      "title": "88式",
+      "description": "默认立绘-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114810.png"
+    },
+    {
+      "configuration": {
+        "name": "88@normal",
+        "position": [-100, -5],
+        "scale": 0.08,
+        "stageStyle": { "height": 450, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/88@normal/normal.model3.json"
+      },
+      "title": "88式",
+      "description": "默认立绘-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114845.png"
+    },
+    {
+      "configuration": {
+        "name": "95@destroy",
+        "position": [-40, 5],
+        "scale": 0.4,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/95@destroy/destroy.model3.json"
+      },
+      "title": "95式",
+      "description": "玉玲珑-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114908.png"
+    },
+    {
+      "configuration": {
+        "name": "dp12@destroy",
+        "position": [-10, 20],
+        "scale": 0.04,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dp12@destroy/destroy.model3.json"
+      },
+      "title": "DP-12",
+      "description": "花月夜行灯-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114923.png"
+    },
+    {
+      "configuration": {
+        "name": "dsr50@destroy",
+        "position": [-10, 0],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50@destroy/destroy.model3.json"
+      },
+      "title": "DSR-50",
+      "description": "红牡丹-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430114950.png"
+    },
+    {
+      "configuration": {
+        "name": "dsr50@normal",
+        "position": [10, -15],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50@normal/normal.model3.json"
+      },
+      "title": "DSR-50",
+      "description": "红牡丹-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115017.png"
+    },
+    {
+      "configuration": {
+        "name": "dsr50_2101@destroy",
+        "position": [-20, -40],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50_2101@destroy/destroy.model3.json"
+      },
+      "title": "DSR-50",
+      "description": "最高出价-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115036.png"
+    },
+    {
+      "configuration": {
+        "name": "dsr50_2101@normal",
+        "position": [-30, 40],
+        "scale": 0.06,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/dsr50_2101@normal/normal.model3.json"
+      },
+      "title": "DSR-50",
+      "description": "最高出价-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115105.png"
+    },
+    {
+      "configuration": {
+        "name": "g36c_3802@destroy",
+        "position": [-10, 40],
+        "scale": 0.1,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g36c_3802@destroy/destroy.model3.json"
+      },
+      "title": "G36C",
+      "description": "灼眼的G36C-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115128.png"
+    },
+    {
+      "configuration": {
+        "name": "g36c_3802@normal",
+        "position": [-30, 35],
+        "scale": 0.1,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g36c_3802@normal/normal.model3.json"
+      },
+      "title": "G36C",
+      "description": "灼眼的G36C-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115145.png"
+    },
+    {
+      "configuration": {
+        "name": "g41_2401@normal",
+        "position": [0, 0],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/g41_2401@normal/normal.model3.json"
+      },
+      "title": "G41",
+      "description": "沙滩朋克2064-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115211.png"
+    },
+    {
+      "configuration": {
+        "name": "generalliu_5101@destroy",
+        "position": [-15, -20],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/generalliu_5101@destroy/destroy.model3.json"
+      },
+      "title": "刘氏步枪",
+      "description": "垂枝梦狐影-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115228.png"
+    },
+    {
+      "configuration": {
+        "name": "hk416_805@normal",
+        "position": [-30, 15],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/hk416_805@normal/normal.model3.json"
+      },
+      "title": "HK416",
+      "description": "星之茧-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115249.png"
+    },
+    {
+      "configuration": {
+        "name": "k2_3301@destroy",
+        "position": [-40, 50],
+        "scale": 0.1,
+        "stageStyle": { "height": 350, "width": 420 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/k2_3301@destroy/destroy.model3.json"
+      },
+      "title": "K2",
+      "description": "黎明之前-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115326.png"
+    },
+    {
+      "configuration": {
+        "name": "k2_3301@normal",
+        "position": [-40, 40],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/k2_3301@normal/normal.model3.json"
+      },
+      "title": "K2",
+      "description": "黎明之前-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115347.png"
+    },
+    {
+      "configuration": {
+        "name": "kp31_3101@destroy",
+        "position": [-40, 40],
+        "scale": 0.07,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/kp31_3101@destroy/destroy.model3.json"
+      },
+      "title": "索米",
+      "description": "幸福使命-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115417.png"
+    },
+    {
+      "configuration": {
+        "name": "lewis_4001@destroy",
+        "position": [-40, 35],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/lewis_4001@destroy/destroy.model3.json"
+      },
+      "title": "刘易斯",
+      "description": "圣夜约定-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115441.png"
+    },
+    {
+      "configuration": {
+        "name": "lewis_5501@normal",
+        "position": [0, 10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/lewis_5501@normal/normal.model3.json"
+      },
+      "title": "刘易斯",
+      "description": "迎寒客-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115501.png"
+    },
+    {
+      "configuration": {
+        "name": "m950a_4302@normal",
+        "position": [20, 0],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/m950a_4302@normal/normal.model3.json"
+      },
+      "title": "M950A",
+      "description": "柳莺与蔷薇-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115524.png"
+    },
+    {
+      "configuration": {
+        "name": "ots14_3001@destroy",
+        "position": [0, -10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/ots14_3001@destroy/destroy.model3.json"
+      },
+      "title": "OTs-14",
+      "description": "紫雨心-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115542.png"
+    },
+    {
+      "configuration": {
+        "name": "ots14_3001@normal",
+        "position": [-20, 25],
+        "scale": 0.08,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/ots14_3001@normal/normal.model3.json"
+      },
+      "title": "OTs-14",
+      "description": "紫雨心-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115614.png"
+    },
+    {
+      "configuration": {
+        "name": "pa15_3701@destroy",
+        "position": [-30, -20],
+        "scale": 0.15,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/pa15_3701@destroy/destroy.model3.json"
+      },
+      "title": "PA-15",
+      "description": "高校心跳物语-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115636.png"
+    },
+    {
+      "configuration": {
+        "name": "pa15_3701@normal",
+        "position": [-10, 10],
+        "scale": 0.13,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/pa15_3701@normal/normal.model3.json"
+      },
+      "title": "PA-15",
+      "description": "高校心跳物语-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115703.png"
+    },
+    {
+      "configuration": {
+        "name": "r93_3501@destroy",
+        "position": [-60, -20],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/r93_3501@destroy/destroy.model3.json"
+      },
+      "title": "R93",
+      "description": "长假幸运星-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115743.png"
+    },
+    {
+      "configuration": {
+        "name": "r93_3501@normal",
+        "position": [-140, -20],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/r93_3501@normal/normal.model3.json"
+      },
+      "title": "R93",
+      "description": "长假幸运星-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115801.png"
+    },
+    {
+      "configuration": {
+        "name": "rfb_1601@destroy",
+        "position": [-10, 0],
+        "scale": 0.1,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/rfb_1601@destroy/destroy.model3.json"
+      },
+      "title": "RFB",
+      "description": "RFB偷走圣诞节-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115835.png"
+    },
+    {
+      "configuration": {
+        "name": "rfb_1601@normal",
+        "position": [-10, 0],
+        "scale": 0.08,
+        "stageStyle": { "height": 450, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/rfb_1601@normal/normal.model3.json"
+      },
+      "title": "RFB",
+      "description": "RFB偷走圣诞节-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115905.png"
+    },
+    {
+      "configuration": {
+        "name": "type64-ar_2901@destroy",
+        "position": [0, 0],
+        "scale": 0.11,
+        "stageStyle": { "height": 450, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/type64-ar_2901@destroy/destroy.model3.json"
+      },
+      "title": "64式自",
+      "description": "新年祈愿-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115925.png"
+    },
+    {
+      "configuration": {
+        "name": "vector_1901@normal",
+        "position": [0, 30],
+        "scale": 0.11,
+        "stageStyle": { "height": 450, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/vector_1901@normal/normal.model3.json"
+      },
+      "title": "维克托",
+      "description": "盲信者-正常",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430115944.png"
+    },
+    {
+      "configuration": {
+        "name": "zb26_4703@destroy",
+        "position": [10, 50],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/GirlsFrontline/zb26_4703@destroy/destroy.model3.json"
+      },
+      "title": "ZB-26",
+      "description": "旖梦之隅-重创",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430120007.png"
+    }
+  ],
+  "VenusScramble": [
+    {
+      "configuration": {
+        "name": "player_unit_00001",
+        "position": [40, 10],
+        "scale": 0.17,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/VenusScramble/player_unit_00001/model.json"
+      },
+      "title": "芙蕾雅",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234223.png"
+    },
+    {
+      "configuration": {
+        "name": "player_unit_00051",
+        "position": [40, 10],
+        "scale": 0.17,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/VenusScramble/player_unit_00051/model.json"
+      },
+      "title": "芙蕾雅",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234240.png"
+    }
+  ],
+  "Sin": [
+    {
+      "configuration": {
+        "name": "xch001_01",
+        "position": [50, -30],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001_01/xch001_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234317.png"
+    },
+    {
+      "configuration": {
+        "name": "xch001b_01",
+        "position": [-10, -20],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001b_01/xch001b_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234346.png"
+    },
+    {
+      "configuration": {
+        "name": "xch003_01",
+        "position": [-10, 10],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch003_01/xch003_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234402.png"
+    },
+    {
+      "configuration": {
+        "name": "xch004_01",
+        "position": [20, -10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch004_01/xch004_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234556.png"
+    },
+    {
+      "configuration": {
+        "name": "xch005_01",
+        "position": [40, 10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch005_01/xch005_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234616.png"
+    },
+    {
+      "configuration": {
+        "name": "xch007a_01",
+        "position": [60, 40],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007a_01/xch007a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234629.png"
+    },
+    {
+      "configuration": {
+        "name": "xch007_01",
+        "position": [60, 60],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007_01/xch007_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234648.png"
+    },
+    {
+      "configuration": {
+        "name": "xch010_01",
+        "position": [20, 60],
+        "scale": 0.07,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch010_01/xch010_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234706.png"
+    },
+    {
+      "configuration": {
+        "name": "xch012_01",
+        "position": [20, 60],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch012_01/xch012_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234734.png"
+    },
+    {
+      "configuration": {
+        "name": "xch016_01",
+        "position": [30, 60],
+        "scale": 0.14,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch016_01/xch016_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235009.png"
+    },
+    {
+      "configuration": {
+        "name": "xco004_01",
+        "position": [30, 60],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco004_01/xco004_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235028.png"
+    },
+    {
+      "configuration": {
+        "name": "xco005a_01",
+        "position": [20, 30],
+        "scale": 0.04,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005a_01/xco005a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235124.png"
+    },
+    {
+      "configuration": {
+        "name": "xco005_01",
+        "position": [-10, 0],
+        "scale": 0.06,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005_01/xco005_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235141.png"
+    },
+    {
+      "configuration": {
+        "name": "xco011a_01",
+        "position": [-10, 0],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011a_01/xco011a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235153.png"
+    },
+    {
+      "configuration": {
+        "name": "xco011_01",
+        "position": [10, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011_01/xco011_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235202.png"
+    },
+    {
+      "configuration": {
+        "name": "xco013a_01",
+        "position": [30, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013a_01/xco013a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235213.png"
+    },
+    {
+      "configuration": {
+        "name": "xco013_01",
+        "position": [30, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013_01/xco013_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235225.png"
+    },
+    {
+      "configuration": {
+        "name": "xco017_01",
+        "position": [0, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco017_01/xco017_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235235.png"
+    },
+    {
+      "configuration": {
+        "name": "xco019_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco019_01/xco019_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235247.png"
+    },
+    {
+      "configuration": {
+        "name": "xco025_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco025_01/xco025_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235256.png"
+    },
+    {
+      "configuration": {
+        "name": "xco028_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco028_01/xco028_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235307.png"
+    },
+    {
+      "configuration": {
+        "name": "xco037_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco037_01/xco037_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235316.png"
+    },
+    {
+      "configuration": {
+        "name": "xco076_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco076_01/xco076_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235331.png"
+    },
+    {
+      "configuration": {
+        "name": "xco502_01",
+        "position": [20, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco502_01/xco502_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235340.png"
+    },
+    {
+      "configuration": {
+        "name": "ych001b_01",
+        "position": [20, 60],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001b_01/ych001b_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235350.png"
+    },
+    {
+      "configuration": {
+        "name": "ych001_01",
+        "position": [20, 90],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001_01/ych001_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235410.png"
+    },
+    {
+      "configuration": {
+        "name": "ych004_01",
+        "position": [0, 90],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych004_01/ych004_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235426.png"
+    },
+    {
+      "configuration": {
+        "name": "ych007a_01",
+        "position": [0, 90],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych007a_01/ych007a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235436.png"
+    },
+    {
+      "configuration": {
+        "name": "ych011_01",
+        "position": [0, 80],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych011_01/ych011_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235447.png"
+    },
+    {
+      "configuration": {
+        "name": "ych014_01",
+        "position": [0, 100],
+        "scale": 0.12,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych014_01/ych014_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235459.png"
+    },
+    {
+      "configuration": {
+        "name": "ych015_01",
+        "position": [0, 100],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych015_01/ych015_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235511.png"
+    },
+    {
+      "configuration": {
+        "name": "yco004_01",
+        "position": [0, 20],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco004_01/yco004_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235522.png"
+    },
+    {
+      "configuration": {
+        "name": "yco005a_01",
+        "position": [0, 20],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005a_01/yco005a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235534.png"
+    },
+    {
+      "configuration": {
+        "name": "yco005_01",
+        "position": [30, 20],
+        "scale": 0.045,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005_01/yco005_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235548.png"
+    },
+    {
+      "configuration": {
+        "name": "yco011a_01",
+        "position": [10, 100],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco011a_01/yco011a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235602.png"
+    },
+    {
+      "configuration": {
+        "name": "yco013a_01",
+        "position": [10, 80],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco013a_01/yco013a_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235613.png"
+    },
+    {
+      "configuration": {
+        "name": "yco017_01",
+        "position": [10, 80],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco017_01/yco017_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235623.png"
+    },
+    {
+      "configuration": {
+        "name": "yco019_01",
+        "position": [10, 80],
+        "scale": 0.13,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco019_01/yco019_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235633.png"
+    },
+    {
+      "configuration": {
+        "name": "yco021_01",
+        "position": [10, 30],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco021_01/yco021_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235644.png"
+    },
+    {
+      "configuration": {
+        "name": "yco025_01",
+        "position": [10, 30],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco025_01/yco025_01.model3.json"
+      },
+      "title": "?",
+      "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235656.png"
+    }
+  ],
+  "shuangshengshijie": [
+    {
+      "configuration": {
+        "name": "0113upd__l2d_356.u",
+        "position": [0, 80],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0113upd__l2d_356.u/0113upd__l2d_356.u.model3.json"
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0113upd__l2d_357.u",
+        "position": [-20, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0113upd__l2d_357.u/0113upd__l2d_357.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0113upd__l2d_359.u",
+        "position": [-20, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0113upd__l2d_359.u/0113upd__l2d_359.u.model3.json"
+      },
+      "title": "千姬",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0202upd__l2d_349.u",
+        "position": [-20, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 300 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0202upd__l2d_349.u/0202upd__l2d_349.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0202upd__l2d_351.u",
+        "position": [60, 10],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0202upd__l2d_351.u/0202upd__l2d_351.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0202upd__l2d_355.u",
+        "position": [60, 30],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0202upd__l2d_355.u/0202upd__l2d_355.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0202upd__l2d_379.u",
+        "position": [-90, 40],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0202upd__l2d_379.u/0202upd__l2d_379.u.model3.json"
+      },
+      "title": "千姬",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0202upd__l2d_385.u",
+        "position": [-40, 60],
+        "scale": 0.12,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0202upd__l2d_385.u/0202upd__l2d_385.u.model3.json"
+      },
+      "title": "阿尼娅",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0629upd__l2d_362.u",
+        "position": [-10, 95],
+        "scale": 0.12,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0629upd__l2d_362.u/0629upd__l2d_362.u.model3.json"
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0629upd__l2d_363.u",
+        "position": [-40, 60],
+        "scale": 0.15,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0629upd__l2d_363.u/0629upd__l2d_363.u.model3.json"
+      },
+      "title": "聂诗柔",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0828upd__l2d_379.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0828upd__l2d_379.u/0828upd__l2d_379.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0828upd__l2d_380.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0828upd__l2d_380.u/0828upd__l2d_380.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0828upd__l2d_381.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0828upd__l2d_381.u/0828upd__l2d_381.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0828upd__l2d_382.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0828upd__l2d_382.u/0828upd__l2d_382.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0828upd__l2d_391.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0828upd__l2d_391.u/0828upd__l2d_391.u.model3.json"
+      },
+      "title": "千姬",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0911upd__l2d_343.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0911upd__l2d_343.u/0911upd__l2d_343.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0911upd__l2d_344.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0911upd__l2d_344.u/0911upd__l2d_344.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0911upd__l2d_347.u",
+        "position": [40, 60],
+        "scale": 0.09,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0911upd__l2d_347.u/0911upd__l2d_347.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0911upd__l2d_348.u",
+        "position": [50, 70],
+        "scale": 0.08,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0911upd__l2d_348.u/0911upd__l2d_348.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0925upd__l2d_365.u",
+        "position": [0, 100],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0925upd__l2d_365.u/0925upd__l2d_365.u.model3.json"
+      },
+      "title": "高奈利亚",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "0925upd__l2d_367.u",
+        "position": [-10, 100],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/0925upd__l2d_367.u/0925upd__l2d_367.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "10qpt01__l2d_355.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/10qpt01__l2d_355.u/10qpt01__l2d_355.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "10qpt01__l2d_356.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/10qpt01__l2d_356.u/10qpt01__l2d_356.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "10qpt01__l2d_357.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/10qpt01__l2d_357.u/10qpt01__l2d_357.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "1119upd__l2d_368.u",
+        "position": [0, 130],
+        "scale": 0.11,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/1119upd__l2d_368.u/1119upd__l2d_368.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "1119upd__l2d_370.u",
+        "position": [0, 130],
+        "scale": 0.085,
+        "stageStyle": { "height": 400, "width": 400 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/1119upd__l2d_370.u/1119upd__l2d_370.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "12qpt03__l2d_376.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/12qpt03__l2d_376.u/12qpt03__l2d_376.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "12qpt04__l2d_377.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/12qpt04__l2d_377.u/12qpt04__l2d_377.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "26__l2d_115.u",
+        "position": [20, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/26__l2d_115.u/26__l2d_115.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "27__l2d_116.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/27__l2d_116.u/27__l2d_116.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "28__l2d_117.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/28__l2d_117.u/28__l2d_117.u.model3.json"
+      },
+      "title": "苏小真",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "33__l2d_136.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/33__l2d_136.u/33__l2d_136.u.model3.json"
+      },
+      "title": "高奈利亚",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "34__l2d_137.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/34__l2d_137.u/34__l2d_137.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "35__l2d_138.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/35__l2d_138.u/35__l2d_138.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "36__l2d_139.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/36__l2d_139.u/36__l2d_139.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "3__l2d_31.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/3__l2d_31.u/3__l2d_31.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "47__l2d_200.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/47__l2d_200.u/47__l2d_200.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "47__l2d_201.u",
+        "position": [0, 100],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/47__l2d_201.u/47__l2d_201.u.model3.json"
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "47__l2d_202.u",
+        "position": [0, 70],
+        "scale": 0.22,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/47__l2d_202.u/47__l2d_202.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "47__l2d_203.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/47__l2d_203.u/47__l2d_203.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "4__l2d_32.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/4__l2d_32.u/4__l2d_32.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "5__l2d_33.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/5__l2d_33.u/5__l2d_33.u.model3.json"
+      },
+      "title": "苏小真",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "6__l2d_34.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/6__l2d_34.u/6__l2d_34.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_383.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_383.u/724upd__l2d_383.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_384.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_384.u/724upd__l2d_384.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_385.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_385.u/724upd__l2d_385.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_386.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_386.u/724upd__l2d_386.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_388.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_388.u/724upd__l2d_388.u.model3.json"
+      },
+      "title": "苏小真",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_389.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_389.u/724upd__l2d_389.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "724upd__l2d_390.u",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/724upd__l2d_390.u/724upd__l2d_390.u.model3.json"
+      },
+      "title": "阿尼娅",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "728upd__l2d_392.u",
+        "position": [0, 100],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/728upd__l2d_392.u/728upd__l2d_392.u.model3.json"
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "8qpt01__l2d_322.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/8qpt01__l2d_322.u/8qpt01__l2d_322.u.model3.json"
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "8qpt01__l2d_323.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/8qpt01__l2d_323.u/8qpt01__l2d_323.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "8qpt01__l2d_324.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/8qpt01__l2d_324.u/8qpt01__l2d_324.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "8qpt01__l2d_325.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/8qpt01__l2d_325.u/8qpt01__l2d_325.u.model3.json"
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "9qpt01__l2d_327.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/9qpt01__l2d_327.u/9qpt01__l2d_327.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "9qpt01__l2d_328.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/9qpt01__l2d_328.u/9qpt01__l2d_328.u.model3.json"
+      },
+      "title": "聂诗柔",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d1__l2d_75.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d1__l2d_75.u/l2d1__l2d_75.u.model3.json"
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d2__l2d_77.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d2__l2d_77.u/l2d2__l2d_77.u.model3.json"
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d3__l2d_78.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d3__l2d_78.u/l2d3__l2d_78.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d4__l2d_182.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d4__l2d_182.u/l2d4__l2d_182.u.model3.json"
+      },
+      "title": "千姬",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d5__l2d_139.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d5__l2d_139.u/l2d5__l2d_139.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d5__l2d_94.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d5__l2d_94.u/l2d5__l2d_94.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d6__l2d_184.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d6__l2d_184.u/l2d6__l2d_184.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "l2d7__l2d_76.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/l2d7__l2d_76.u/l2d7__l2d_76.u.model3.json"
+      },
+      "title": "高奈利亚",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "newg01__l2d_364.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/newg01__l2d_364.u/newg01__l2d_364.u.model3.json"
+      },
+      "title": "聂诗柔",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "newg02__l2d_297.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/newg02__l2d_297.u/newg02__l2d_297.u.model3.json"
+      },
+      "title": "阿尼娅",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "newg03__l2d_298.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/newg03__l2d_298.u/newg03__l2d_298.u.model3.json"
+      },
+      "title": "聂诗柔",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "newg04__l2d_299.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/newg04__l2d_299.u/newg04__l2d_299.u.model3.json"
+      },
+      "title": "阿尼娅",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "tw75__l2d_232.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/tw75__l2d_232.u/tw75__l2d_232.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "tw75__l2d_233.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/tw75__l2d_233.u/tw75__l2d_233.u.model3.json"
+      },
+      "title": "苏小真",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "tw75__l2d_234.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/tw75__l2d_234.u/tw75__l2d_234.u.model3.json"
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "xnl2d1__l2d_222.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/xnl2d1__l2d_222.u/xnl2d1__l2d_222.u.model3.json"
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "xnl2d2__l2d_223.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/xnl2d2__l2d_223.u/xnl2d2__l2d_223.u.model3.json"
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "xnl2d3__l2d_224.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/xnl2d3__l2d_224.u/xnl2d3__l2d_224.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "ybxd0414__l2d_336.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/ybxd0414__l2d_336.u/ybxd0414__l2d_336.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "ybxd0414__l2d_337.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/ybxd0414__l2d_337.u/ybxd0414__l2d_337.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "ybxd0414__l2d_338.u",
+        "position": [50, 10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/ybxd0414__l2d_338.u/ybxd0414__l2d_338.u.model3.json"
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "ybxd0414__l2d_339.u",
+        "position": [50, 10],
+        "scale": 0.1,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/ybxd0414__l2d_339.u/ybxd0414__l2d_339.u.model3.json"
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl03",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d22.u/l2d22.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl03/l2d24.u/l2d24.u.model3.json"
+        ]
+      },
+      "title": "朱诺",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl04",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d26.u/l2d26.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d24.u/l2d24.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl04/l2d3008.u/l2d3008.u.model3.json"
+        ]
+      },
+      "title": "沐恩",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl05",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d22.u/l2d22.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d25.u/l2d25.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d27.u/l2d27.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl05/l2d101.u/l2d101.u.model3.json"
+        ]
+      },
+      "title": "苏小真",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl06",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d07.u/l2d07.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d08.u/l2d08.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d17.u/l2d17.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d18.u/l2d18.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d19.u/l2d19.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl06/l2d25.u/l2d25.u.model3.json"
+        ]
+      },
+      "title": "千姬",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl01",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d26.u/l2d26.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d29.u/l2d29.u.model3.json"
+        ]
+      },
+      "title": "洛可可",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl01",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d17.u/l2d17.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d19.u/l2d19.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl01/l2d27.u/l2d27.u.model3.json"
+        ]
+      },
+      "title": "高奈利亚",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl07",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d07.u/l2d07.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl07/l2d21.u/l2d21.u.model3.json"
+        ]
+      },
+      "title": "艾琳",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl08",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d12.u/l2d12.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d17.u/l2d17.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d21.u/l2d21.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d22.u/l2d22.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d29.u/l2d29.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl08/l2d5017.u/l2d5017.u.model3.json"
+        ]
+      },
+      "title": "格兰妮",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl09",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d07.u/l2d07.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d09.u/l2d09.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d22.u/l2d22.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d24.u/l2d24.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl09/l2d25.u/l2d25.u.model3.json"
+        ]
+      },
+      "title": "时无瑕",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl10",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d08.u/l2d08.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d24.u/l2d24.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d26.u/l2d26.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl10/l2d29.u/l2d29.u.model3.json"
+        ]
+      },
+      "title": "时无忧",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl11",
+        "position": [0, 92],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d07.u/l2d07.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d12.u/l2d12.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d17.u/l2d17.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d19.u/l2d19.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d25.u/l2d25.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl11/l2d29.u/l2d29.u.model3.json"
+        ]
+      },
+      "title": "丽达",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl12",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d02.u/l2d02.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d03.u/l2d03.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d04.u/l2d04.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d17.u/l2d17.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d18.u/l2d18.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d22.u/l2d22.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl12/l2d27.u/l2d27.u.model3.json"
+        ]
+      },
+      "title": "伊珂丝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl13",
+        "position": [0, 70],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl13/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl13/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl13/l2d14.u/l2d14.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl13/l2d26.u/l2d26.u.model3.json"
+        ]
+      },
+      "title": "卡萝",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl14",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl14/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl14/l2d08.u/l2d08.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl14/l2d19.u/l2d19.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl14/l2d21.u/l2d21.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl14/l2d22.u/l2d22.u.model3.json"
+        ]
+      },
+      "title": "聂诗柔",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl15",
+        "position": [0, 82],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl15/l2d00.u/l2d00.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl15/l2d12.u/l2d12.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl15/l2d14.u/l2d14.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl15/l2d27.u/l2d27.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl15/l2d3001.u/l2d3001.u.model3.json"
+        ]
+      },
+      "title": "阿尼娅",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl16",
+        "position": [0, 82],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl16/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl16/l2d02.u/l2d02.u.model3.json"
+        ]
+      },
+      "title": "唯",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl101_l2d01.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl101_l2d01.u/girl101_l2d01.u.model3.json"
+      },
+      "title": "?",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl102",
+        "position": [0, 82],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": [
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl102/l2d01.u/l2d01.u.model3.json",
+          "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl102/l2d02.u/l2d02.u.model3.json"
+        ]
+      },
+      "title": "?",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl105_l2d01.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl105_l2d01.u/girl105_l2d01.u.model3.json"
+      },
+      "title": "?",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl110_l2d01.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl110_l2d01.u/girl110_l2d01.u.model3.json"
+      },
+      "title": "?",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl112_l2d01.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl112_l2d01.u/girl112_l2d01.u.model3.json"
+      },
+      "title": "?",
+      "cover": ""
+    },
+    {
+      "configuration": {
+        "name": "girl118_l2d01.u",
+        "position": [0, 60],
+        "scale": 0.2,
+        "stageStyle": { "height": 400, "width": 350 },
+        "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/shuangshengshijie/girl118_l2d01.u/girl118_l2d01.u.model3.json"
+      },
+      "title": "唯",
+      "cover": ""
+    }
+  ]
+}
