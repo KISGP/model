@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kafuka1.moc3",
+		"Textures": [
+			"kafuka1.8192/texture_00.png",
+			"kafuka1.8192/texture_01.png",
+			"kafuka1.8192/texture_02.png"
+		],
+		"Physics": "kafuka1.physics3.json",
+		"DisplayInfo": "kafuka1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
