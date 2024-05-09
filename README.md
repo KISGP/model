@@ -64,7 +64,7 @@ let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/M
 // ...
 ```
 
-如果你仅需要特定的模型，可以下载选择下载 [ModelList_Live2d.json](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d.json) ，并从中选取你所需要的模型配置。
+如果你仅需要特定的模型，可以选择下载 [ModelList_Live2d.json](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d.json) ，并从中选取你所需要的模型配置。
 
 # 下载
 
