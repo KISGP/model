@@ -1,8 +1,1 @@
-{
-	"type":"Live2D Expression",
-	"fade_in":500,
-	"fade_out":500,
-	"params":[
-		{"id":"PARAM_CHEEK","val":1}
-	]
-}
+{"type":"Live2DExpression","fade_in":500,"fade_out":500,"params":[{"id":"PARAM_CHEEK","val":1}]}
