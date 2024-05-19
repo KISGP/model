@@ -1,0 +1,682 @@
+[
+    {
+        "configuration": {
+            "name": "xch001_01",
+            "position": [
+                50,
+                -30
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001_01/xch001_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234317.png"
+    },
+    {
+        "configuration": {
+            "name": "xch001b_01",
+            "position": [
+                -10,
+                -20
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch001b_01/xch001b_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234346.png"
+    },
+    {
+        "configuration": {
+            "name": "xch003_01",
+            "position": [
+                -10,
+                10
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch003_01/xch003_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234402.png"
+    },
+    {
+        "configuration": {
+            "name": "xch004_01",
+            "position": [
+                20,
+                -10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch004_01/xch004_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234556.png"
+    },
+    {
+        "configuration": {
+            "name": "xch005_01",
+            "position": [
+                40,
+                10
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch005_01/xch005_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234616.png"
+    },
+    {
+        "configuration": {
+            "name": "xch007a_01",
+            "position": [
+                60,
+                40
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007a_01/xch007a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234629.png"
+    },
+    {
+        "configuration": {
+            "name": "xch007_01",
+            "position": [
+                60,
+                60
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch007_01/xch007_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234648.png"
+    },
+    {
+        "configuration": {
+            "name": "xch010_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.07,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch010_01/xch010_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234706.png"
+    },
+    {
+        "configuration": {
+            "name": "xch012_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch012_01/xch012_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430234734.png"
+    },
+    {
+        "configuration": {
+            "name": "xch016_01",
+            "position": [
+                30,
+                60
+            ],
+            "scale": 0.14,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xch016_01/xch016_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235009.png"
+    },
+    {
+        "configuration": {
+            "name": "xco004_01",
+            "position": [
+                30,
+                60
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco004_01/xco004_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235028.png"
+    },
+    {
+        "configuration": {
+            "name": "xco005a_01",
+            "position": [
+                20,
+                30
+            ],
+            "scale": 0.04,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005a_01/xco005a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235124.png"
+    },
+    {
+        "configuration": {
+            "name": "xco005_01",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.06,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco005_01/xco005_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235141.png"
+    },
+    {
+        "configuration": {
+            "name": "xco011a_01",
+            "position": [
+                -10,
+                0
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011a_01/xco011a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235153.png"
+    },
+    {
+        "configuration": {
+            "name": "xco011_01",
+            "position": [
+                10,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco011_01/xco011_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235202.png"
+    },
+    {
+        "configuration": {
+            "name": "xco013a_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013a_01/xco013a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235213.png"
+    },
+    {
+        "configuration": {
+            "name": "xco013_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco013_01/xco013_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235225.png"
+    },
+    {
+        "configuration": {
+            "name": "xco017_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco017_01/xco017_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235235.png"
+    },
+    {
+        "configuration": {
+            "name": "xco019_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco019_01/xco019_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235247.png"
+    },
+    {
+        "configuration": {
+            "name": "xco025_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco025_01/xco025_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235256.png"
+    },
+    {
+        "configuration": {
+            "name": "xco028_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco028_01/xco028_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235307.png"
+    },
+    {
+        "configuration": {
+            "name": "xco037_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco037_01/xco037_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235316.png"
+    },
+    {
+        "configuration": {
+            "name": "xco076_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco076_01/xco076_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235331.png"
+    },
+    {
+        "configuration": {
+            "name": "xco502_01",
+            "position": [
+                20,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/xco502_01/xco502_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235340.png"
+    },
+    {
+        "configuration": {
+            "name": "ych001b_01",
+            "position": [
+                20,
+                60
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001b_01/ych001b_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235350.png"
+    },
+    {
+        "configuration": {
+            "name": "ych001_01",
+            "position": [
+                20,
+                90
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych001_01/ych001_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235410.png"
+    },
+    {
+        "configuration": {
+            "name": "ych004_01",
+            "position": [
+                0,
+                90
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych004_01/ych004_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235426.png"
+    },
+    {
+        "configuration": {
+            "name": "ych007a_01",
+            "position": [
+                0,
+                90
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych007a_01/ych007a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235436.png"
+    },
+    {
+        "configuration": {
+            "name": "ych011_01",
+            "position": [
+                0,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych011_01/ych011_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235447.png"
+    },
+    {
+        "configuration": {
+            "name": "ych014_01",
+            "position": [
+                0,
+                100
+            ],
+            "scale": 0.12,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych014_01/ych014_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235459.png"
+    },
+    {
+        "configuration": {
+            "name": "ych015_01",
+            "position": [
+                0,
+                100
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/ych015_01/ych015_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235511.png"
+    },
+    {
+        "configuration": {
+            "name": "yco004_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.11,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco004_01/yco004_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235522.png"
+    },
+    {
+        "configuration": {
+            "name": "yco005a_01",
+            "position": [
+                0,
+                20
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005a_01/yco005a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235534.png"
+    },
+    {
+        "configuration": {
+            "name": "yco005_01",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.045,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco005_01/yco005_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235548.png"
+    },
+    {
+        "configuration": {
+            "name": "yco011a_01",
+            "position": [
+                10,
+                100
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco011a_01/yco011a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235602.png"
+    },
+    {
+        "configuration": {
+            "name": "yco013a_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco013a_01/yco013a_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235613.png"
+    },
+    {
+        "configuration": {
+            "name": "yco017_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.08,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco017_01/yco017_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235623.png"
+    },
+    {
+        "configuration": {
+            "name": "yco019_01",
+            "position": [
+                10,
+                80
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco019_01/yco019_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235633.png"
+    },
+    {
+        "configuration": {
+            "name": "yco021_01",
+            "position": [
+                10,
+                30
+            ],
+            "scale": 0.1,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco021_01/yco021_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235644.png"
+    },
+    {
+        "configuration": {
+            "name": "yco025_01",
+            "position": [
+                10,
+                30
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 400,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/Sin/yco025_01/yco025_01.model3.json"
+        },
+        "title": "?",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240430235656.png"
+    }
+]

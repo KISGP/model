@@ -1,0 +1,155 @@
+[
+    {
+        "configuration": {
+            "name": "bronya",
+            "position": [
+                -15,
+                0
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 350,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/bronya/model.json"
+        },
+        "title": "布洛妮娅",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133112.png"
+    },
+    {
+        "configuration": {
+            "name": "BYC",
+            "position": [
+                -15,
+                -50
+            ],
+            "scale": 0.13,
+            "stageStyle": {
+                "height": 350,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/BYC/model.json"
+        },
+        "title": "八重樱",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133145.png"
+    },
+    {
+        "configuration": {
+            "name": "kaguya",
+            "position": [
+                -50,
+                0
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/kaguya/model.json"
+        },
+        "title": "耀夜姬",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429133252.png"
+    },
+    {
+        "configuration": {
+            "name": "keluoyi",
+            "position": [
+                -50,
+                0
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 400,
+                "width": 350
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/keluoyi/model.json"
+        },
+        "title": "柯罗伊",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134335.png"
+    },
+    {
+        "configuration": {
+            "name": "Kiro",
+            "position": [
+                -80,
+                20
+            ],
+            "scale": 0.22,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Kiro/model.json"
+        },
+        "title": "时雨绮罗",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134422.png"
+    },
+    {
+        "configuration": {
+            "name": "Lita",
+            "position": [
+                -60,
+                20
+            ],
+            "scale": 0.22,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Lita/model.json"
+        },
+        "title": "丽塔",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134501.png"
+    },
+    {
+        "configuration": {
+            "name": "Nindi",
+            "position": [
+                20,
+                0
+            ],
+            "scale": 0.09,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/Nindi/model.json"
+        },
+        "title": "宁蒂",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134518.png"
+    },
+    {
+        "configuration": {
+            "name": "xier",
+            "position": [
+                30,
+                20
+            ],
+            "scale": 0.15,
+            "stageStyle": {
+                "height": 450,
+                "width": 300
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xier/model.json"
+        },
+        "title": "希儿",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429134543.png"
+    },
+    {
+        "configuration": {
+            "name": "xilin2.1",
+            "position": [
+                -100,
+                -90
+            ],
+            "scale": 0.2,
+            "stageStyle": {
+                "height": 450,
+                "width": 400
+            },
+            "path": "https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d/BengHuai2/xilin2.1/model.json"
+        },
+        "title": "西琳",
+        "cover": "https://cdn.jsdelivr.net/gh/kisssssssss/IMG@main/20240429135158.png"
+    }
+]
