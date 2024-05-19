@@ -24,7 +24,8 @@
    >由于删除背景我是通过 PS 边比较边删除的方法实现的，有些背景不能很好的清理干净，因此播放动作时可能会有某些东西突然飞入或者出现。
 
    ![PixPin_2024-05-17_13-16-32](https://github.com/kisssssssss/model/assets/88269600/f96b63e1-4d54-4d59-a106-6e450bd55be4)
-2. 压缩所有json文件，尽量减少模型文件大小
+2. 压缩所有json文件，尽量减少模型文件大小![image](https://github.com/kisssssssss/model/assets/88269600/633e4e2b-ca14-4d99-b155-d697911907cb)
+
 3. 根据模型大小配置模型的缩放比例以及偏移位置（改配置仅适用于的OhMyLive2D配置）
 
 # 文件介绍
