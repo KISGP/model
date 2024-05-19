@@ -24,16 +24,17 @@
    >由于删除背景我是通过 PS 边比较边删除的方法实现的，有些背景不能很好的清理干净，因此播放动作时可能会有某些东西突然飞入或者出现。
 
    ![PixPin_2024-05-17_13-16-32](https://github.com/kisssssssss/model/assets/88269600/f96b63e1-4d54-4d59-a106-6e450bd55be4)
-2. 压缩所有json文件，尽量减少模型文件大小![image](https://github.com/kisssssssss/model/assets/88269600/633e4e2b-ca14-4d99-b155-d697911907cb)
+2. 压缩所有json文件，尽量减少模型文件大小
+    ![image](https://github.com/kisssssssss/model/assets/88269600/633e4e2b-ca14-4d99-b155-d697911907cb)
 
 3. 根据模型大小配置模型的缩放比例以及偏移位置（改配置仅适用于的OhMyLive2D配置）
 
 # 文件介绍
 
 - [ModelTranslation.json](https://github.com/kisssssssss/model/blob/main/ModelTranslation.json)：Live2d 文件夹下每个文件夹对应的游戏名。
-- [ModelList_Live2d.json](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d.json)：live2d 模型具体信息和配置，如在网页的位置及缩放比例等。（所有模型）
-  - [ModelList_Live2d_Azur](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_Azur.json)：碧蓝航线 模型列表
-  - [ModelList_Live2d_BengHuai2](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d_BengHuai2.json)：崩坏学园2 模型列表
+- [live2d.All.json](https://github.com/kisssssssss/model/blob/main/live2d.All.json)：live2d 模型具体信息和配置，如在网页的位置及缩放比例等。（所有模型）
+  - [live2d.Azur.json](https://github.com/kisssssssss/model/blob/main/live2d.Azur.json)：碧蓝航线 模型列表
+  - [live2d.BengHuai2.json](https://github.com/kisssssssss/model/blob/main/live2d.BengHuai2.json)：崩坏学园2 模型列表
   - ...
 
 # 快速预览
@@ -48,7 +49,7 @@
 import { loadOml2d } from 'oh-my-live2d';
 
 // 获取模型列表对象
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/ModelList_Live2d.json')).json();
+let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.All.json')).json();
 
 // 将模型列表对象转成数组
 models = Object.keys(models).map((key) => models[key].map((item) => item.configuration)).flat(1);
@@ -61,22 +62,22 @@ loadOml2d({models})
 
 ```javascript
 // 只获取碧蓝航线模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/ModelList_Live2d_Azur.json')).json();
+let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.Azur.json')).json();
 
 // 只获取崩坏学园2模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/ModelList_Live2d_BengHuai2.json')).json();
+let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.BengHuai2.json')).json();
 
 // 只获取少女前线模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/ModelList_Live2d_GirlsFrontline.json')).json();
+let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.GirlsFrontline.json')).json();
 
 // ...
 ```
 
-如果你仅需要特定的模型，可以选择下载 [ModelList_Live2d.json](https://github.com/kisssssssss/model/blob/main/ModelList_Live2d.json) ，并从中选取你所需要的模型配置。
+如果你仅需要特定的模型，可以选择下载 [live2d.All.json](https://github.com/kisssssssss/model/blob/main/live2d.All.json) ，并从中选取你所需要的模型配置。
 
 ## 直接使用
 
-通过请求 [ModelList_Live2d.json](https://cdn.jsdelivr.net/gh/kisssssssss/model/ModelList_Live2d.json) 获取模型信息并从中获取模型路径，再结合自身情况自行使用。
+通过请求 [live2d.All.json](https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.All.json) 获取模型信息并从中获取模型路径，再结合自身情况自行使用。
 
 # 下载
 
