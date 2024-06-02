@@ -1,0 +1,24 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "知更鸟.moc3",
+		"Textures": [
+			"知更鸟.8192/texture_00.png",
+			"知更鸟.8192/texture_01.png"
+		],
+		"Physics": "知更鸟.physics3.json",
+		"DisplayInfo": "知更鸟.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
