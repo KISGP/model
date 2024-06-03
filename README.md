@@ -43,13 +43,17 @@
 
 # 使用
 
+> 为了国内可以访问，使用 [Cloudflare Workers](https://workers.cloudflare.com) 和 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) 进行代理，代理地址 [https://model.kisssssssss.space/](https://model.kisssssssss.space/)
+> 
+> 由于是免费版的，24 小时内只有 100,000 请求数量，因此如果无法访问可能是请求已经到限量了。
+
 ## 通过 [OhMyLive2D](https://oml2d.com/) 使用
 
 ```javascript
 import { loadOml2d } from 'oh-my-live2d';
 
 // 获取模型列表对象
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.All.json')).json();
+let models = await (await fetch('https://model.kisssssssss.space/https://raw.githubusercontent.com/kisssssssss/model/main/live2d.All.json')).json();
 
 // 将模型列表对象转成数组
 models = Object.keys(models).map((key) => models[key].map((item) => item.configuration)).flat(1);
@@ -62,25 +66,23 @@ loadOml2d({models})
 
 ```javascript
 // 只获取碧蓝航线模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.Azur.json')).json();
+let models = await (await fetch('https://model.kisssssssss.space/https://raw.githubusercontent.com/kisssssssss/model/main/live2d.Azur.json')).json();
 
 // 只获取崩坏学园2模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.BengHuai2.json')).json();
+let models = await (await fetch('https://model.kisssssssss.space/https://raw.githubusercontent.com/kisssssssss/model/main/live2d.BengHuai2.json')).json();
 
 // 只获取少女前线模型
-let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.GirlsFrontline.json')).json();
+let models = await (await fetch('https://model.kisssssssss.space/https://raw.githubusercontent.com/kisssssssss/model/main/live2d.GirlsFrontline.json')).json();
 
-// ...
+// 其它模型请求同理
+// https://model.kisssssssss.space/https://raw.githubusercontent.com/kisssssssss/model/main/ + 模型 json 文件
 ```
-
-如果你仅需要特定的模型，可以选择下载 [live2d.All.json](https://github.com/kisssssssss/model/blob/main/live2d.All.json) ，并从中选取你所需要的模型配置。
-
 ## 直接使用
 
-通过请求 [live2d.All.json](https://cdn.jsdelivr.net/gh/kisssssssss/model/live2d.All.json) 获取模型信息并从中获取模型路径，再结合自身情况自行使用。
+查看 [live2d.All.json](https://github.com/kisssssssss/model/blob/main/live2d.All.json) 具体内容，从中选取你所需要的模型信息。
 
 # 下载
 
-该仓库大小是 ~~1.45G (2024.5.9)~~ 2.03G(2024.6.3)，因此不建议全部下载。如确实需要某个模型文件，可以使用浏览器插件 [GitZip For Github (Google)](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) [GitZip For Github (Edge)](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj) 选择你所需要的模型文件进行下载。
+该仓库大小是 ~~1.45G (2024.5.9)~~ 2.03G (2024.6.14)，因此不建议全部下载。如确实需要某个模型文件，可以使用浏览器插件 [GitZip For Github (Google)](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) [GitZip For Github (Edge)](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj) 选择你所需要的模型文件进行下载。
 
 
