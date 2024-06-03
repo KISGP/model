@@ -46,7 +46,8 @@
 > 为了国内可以访问，使用 [Cloudflare Workers](https://workers.cloudflare.com) 和 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) 进行代理，代理地址 [https://model.kisssssssss.space/](https://model.kisssssssss.space/)
 > 
 > 由于是免费版的，24 小时内只有 100,000 请求数量，因此如果无法访问可能是请求已经到限量了。
-
+>
+> 关于如何部署代理可以查看 [使用Cloudflare Workers优化Github文件国内访问](https://kisssssssss.space/docs/%E6%9C%8D%E5%8A%A1%E5%99%A8/%E4%BD%BF%E7%94%A8Cloudflare%20Workers%E4%BC%98%E5%8C%96Github%E6%96%87%E4%BB%B6%E5%9B%BD%E5%86%85%E8%AE%BF%E9%97%AE)
 ## 通过 [OhMyLive2D](https://oml2d.com/) 使用
 
 ```javascript
