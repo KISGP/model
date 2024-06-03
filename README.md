@@ -81,6 +81,6 @@ let models = await (await fetch('https://cdn.jsdelivr.net/gh/kisssssssss/model/l
 
 # 下载
 
-该仓库大小是 1.45G (2024.5.9)，因此不建议全部下载。如确实需要某个模型文件，可以使用浏览器插件 [GitZip For Github (Google)](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) [GitZip For Github (Edge)](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj) 选择你所需要的模型文件进行下载。
+该仓库大小是 ~~1.45G (2024.5.9)~~ 2.03G(2024.6.3)，因此不建议全部下载。如确实需要某个模型文件，可以使用浏览器插件 [GitZip For Github (Google)](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) [GitZip For Github (Edge)](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj) 选择你所需要的模型文件进行下载。
 
 
